@@ -65,6 +65,7 @@
            03 WS-IDX                 PIC 9(2) COMP.
            03 WS-DEC-IDX             PIC 9(2) COMP.
            03 WS-NUM-IDX             PIC 9(2) COMP.
+           03 FILLER                 PIC X(80).
 
            03 WS-MAX-NUMBER-LGTH     PIC 9(2) COMP.
            03 WS-MAX-FIELD           PIC 9(2) COMP.
